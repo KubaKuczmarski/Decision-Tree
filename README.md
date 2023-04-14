@@ -1,6 +1,6 @@
 **[PL]**
 
-# Gradient-Descent
+# Drzewo Decyzyjne
 
 Drzewo decyzyjne to graficzny model, który reprezentuje sekwencję decyzji, jakie należy podjąć w celu osiągnięcia określonego celu. Drzewo składa się z węzłów i krawędzi, gdzie węzły reprezentują decyzje, a krawędzie reprezentują wynikające z nich konsekwencje.
 
@@ -29,7 +29,7 @@ W projekcie wykorzystno ogólnodostępne dane:
 
 **[ENG]**
 
-# Decision-Tree
+# Decision Tree
 
 A decision tree is a graphical model that represents a sequence of decisions that need to be made in order to achieve a specific goal. The tree consists of nodes and edges, where nodes represent decisions and edges represent the consequences that follow from them.
 
